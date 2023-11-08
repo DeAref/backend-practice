@@ -2,7 +2,31 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<table dir="rtl">
+    <tr>
+        <th>کد </th>
+        <th>نام </th>
+        <th> موجودی</th>
+        <th> تعداد کاربر های دعوت شده</th>
+        <th>کاربر VIP </th>
+        <th>جنسیت</th>
+    </tr>
+    @{
+        foreach(var item in Model)
+        {
+            <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Coin</td>
+            <td>@item.InvitedUser</td>
+            <td>@item.Category</td>
+            <td>@item.userIsVIP</td>
+            <td>@item.gender</td>
+            </tr>
+        }
+    }
+      <tr>
+    <td colspan="6"> تعداد کل مرد ها:</td>
+	<td>@ViewBag.Count</td>
+  </tr>
+</table>
