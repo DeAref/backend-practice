@@ -1,0 +1,8 @@
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.GeneratedMSBuildEditorConfig.editorconfig
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.AssemblyInfoInputs.cache
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.AssemblyInfo.cs
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.csproj.CoreCompileInputs.cache
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.MvcApplicationPartsAssemblyInfo.cache
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.RazorAssemblyInfo.cache
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.RazorAssemblyInfo.cs
+J:\کالج\asp.netcore\practice\backend-practice\lesson4\obj\Debug\net8.0\lesson4.sourcelink.json
