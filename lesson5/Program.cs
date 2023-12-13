@@ -1,9 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using lesson5.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<MydbCon>(x=>x.UseSqlServer(builder.Configuration.GetConnectionString("conncet")));
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
