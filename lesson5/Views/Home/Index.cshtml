@@ -1,8 +1,19 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model IEnumerable<plans>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@{
+    ViewData["Title"]= "Arefs home";
+}
+<table class="table">
+    <tr>
+        <th>Plan Name</th>
+         <th>Plan Price</th>
+          <th>Plan Limit</th>
+    </tr>
+@foreach(var item in Model){
+    <tr>
+        <td>@item.planName</td>
+        <td>@item.planPrice</td>
+        <td>@item.planLimit</td>
+    </tr>
+    }
+</table>

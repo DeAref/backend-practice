@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj": {}
+    "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj": {}
   },
   "projects": {
-    "J:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj": {
+    "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj",
+        "projectUniqueName": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj",
         "projectName": "lesson5",
-        "projectPath": "J:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj",
+        "projectPath": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj",
         "packagesPath": "C:\\Users\\Aref\\.nuget\\packages\\",
-        "outputPath": "J:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\obj\\",
+        "outputPath": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aref\\AppData\\Roaming\\NuGet\\NuGet.Config"
