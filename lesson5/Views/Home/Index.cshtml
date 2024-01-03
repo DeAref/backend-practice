@@ -3,7 +3,7 @@
 @{
     ViewData["Title"]= "Arefs home";
 }
-<table class="table">
+@* <table class="table">
     <tr>
         <th>Plan Name</th>
          <th>Plan Price</th>
@@ -16,4 +16,9 @@
         <td>@item.planLimit</td>
     </tr>
     }
-</table>
+</table> *@
+
+<form asp-action="dateInsert" asp-controller="HomeController" method="post">
+    <input type="text" name="date" id="date" placeholder="1402-02-05">
+    <button class="btn btn-success" type="submit"></button>
+</form>

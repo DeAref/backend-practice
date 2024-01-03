@@ -2,12 +2,21 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using lesson5.Models;
 using System.Data.Common;
+using Microsoft.AspNetCore.Mvc.ApplicationModels;
+using System;
+using System.Globalization;
+using System.Collections.Frozen;
+using NuGet.Protocol;
 
 namespace lesson5.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly MydbCon db;
+  PersianCalendar pCalender = new PersianCalendar(); 
+  DateTime thisDate = DateTime.Now;
+// PersianCalendar pc = new PersianCalendar();
+//         DateTime thisDate = DateTime.Now;
+    private MydbCon db;
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger,MydbCon mydbCon)
@@ -31,6 +40,20 @@ public class HomeController : Controller
         var qplans = db.plans.ToList(); 
         return View(qplans);
 
+    }
+
+    public IActionResult dateInsert(plans Plans){
+        #region convert_date
+        DateTime miladDate = DateTime.Parse(Plans.date.ToString(), new CultureInfo("fa-IR"));
+        Plans.date = miladDate;
+        #endregion
+
+        #region add_date
+        db.plans.Add(Plans);
+        db.SaveChanges();
+        #endregion
+
+        return RedirectToAction("Index");
     }
 
     public IActionResult Privacy()

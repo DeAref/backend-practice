@@ -17,5 +17,7 @@ namespace lesson5.Models
         public int planPrice{get;set;}
 
         public int planLimit{get;set;}
+
+        public DateTime date{get;set;}
      }
 }
