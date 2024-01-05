@@ -1,0 +1,281 @@
+{
+  "Files": [
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\lesson5.bundle.scp.css",
+      "PackagePath": "staticwebassets\\lesson5.bundle.scp.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\07f84a14-d60f-4514-808c-c9d1a532c104photo_2023-10-03_21-48-20.jpg",
+      "PackagePath": "staticwebassets\\07f84a14-d60f-4514-808c-c9d1a532c104photo_2023-10-03_21-48-20.jpg"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\69e3f8c0-a2fd-4f78-a704-430377dc7847Untitled Project.gif",
+      "PackagePath": "staticwebassets\\69e3f8c0-a2fd-4f78-a704-430377dc7847Untitled Project.gif"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\85dcee31-b8ee-4459-9e4a-52710fa6368bmicrosoft-copilot-ai-assistant-coming-to-windows-11-bing-edge-365-650cf5a9a8143-sej.webp",
+      "PackagePath": "staticwebassets\\85dcee31-b8ee-4459-9e4a-52710fa6368bmicrosoft-copilot-ai-assistant-coming-to-windows-11-bing-edge-365-650cf5a9a8143-sej.webp"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\89321840-69ab-4f16-88aa-4d8f9f1efc13Untitled Project.gif",
+      "PackagePath": "staticwebassets\\89321840-69ab-4f16-88aa-4d8f9f1efc13Untitled Project.gif"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lesson5.props",
+      "PackagePath": "build\\lesson5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lesson5.props",
+      "PackagePath": "buildMultiTargeting\\lesson5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lesson5.props",
+      "PackagePath": "buildTransitive\\lesson5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lesson5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

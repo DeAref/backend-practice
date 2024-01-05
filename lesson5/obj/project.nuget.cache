@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTOoDlkGwh4LItWohoDU5tuQQisg+3rS4Od2GyVdbuDcbii4g5xHa6pU3v0cdchDeRPRIVJCuGS15J02UftqoA==",
+  "dgSpecHash": "VdimBFWW5PxQCyzkDTHYf2AFbVWI3/KZgWTwt+q/9NKg5VuXbY3nkznRT/alL4bmb9ofPLT2j2TE547nS8VKcg==",
   "success": true,
-  "projectFilePath": "j:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj",
+  "projectFilePath": "J:\\کالج\\asp.netcore\\practice\\backend-practice\\lesson5\\lesson5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aref\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Aref\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
